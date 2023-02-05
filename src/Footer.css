@@ -1,0 +1,13 @@
+.code-link {
+    color: rgb(150, 148, 141);
+}
+
+.git-link {
+    text-decoration: none;
+    color: rgb(150, 148, 141);
+
+}
+
+.git-link:hover {
+    color: rgb(114, 114, 113);
+}

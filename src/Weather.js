@@ -1,8 +1,9 @@
-import React from "react";
+
 import Search from "./Search";
 import Humidity from "./Humidity";
 import Wind from "./Wind";
 import Update from "./Update";
+import Footer from "./Footer";
 
 import "./Weather.css";
 
@@ -42,6 +43,7 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
