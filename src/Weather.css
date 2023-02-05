@@ -1,0 +1,31 @@
+.App {
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+.Weather {
+  font-family: "Frank Ruhl Libre", serif;
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.Weather .currently-temperature {
+  font-size: 5rem;
+}
+.Weather .float-left {
+  display: block;
+}
+
+.Weather a {
+  color: #606060;
+  text-decoration: none;
+}
+
+.Weather .unit {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
+}

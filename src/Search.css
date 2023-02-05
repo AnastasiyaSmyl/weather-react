@@ -1,0 +1,15 @@
+.form-control {
+  width: 70%;
+  appearance: auto;
+  box-sizing: border-box;
+  padding: 1px 2px;
+}
+.btn {
+  background-color: gray;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #d8d8d8;
+  color: #6d6d6d;
+}
