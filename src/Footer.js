@@ -4,8 +4,6 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <small className="code-link">
-      {" "}
-      Coded by Anastasiya Smyslova,
       <a
         href="https://github.com/AnastasiyaSmyl/weather-react"
         className="git-link"
@@ -13,8 +11,9 @@ export default function Footer() {
         rel="noreferrer"
       >
         {" "}
-        open-sourced{" "}
+        Open-source code,{" "}
       </a>{" "}
+      by Anastasiya Smyslova
     </small>
   );
 }
